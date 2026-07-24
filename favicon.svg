@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity e6604b1d07a2af1f</metadata>
-  <rect width="64" height="64" rx="12" fill="hsl(296 77% 31%)"/>
-  <path d="M28 0h36v64H14Z" fill="hsl(59 62% 61%)" opacity="0.82"/>
-  <g transform="rotate(125 32 32)" opacity="0.42"><circle cx="32" cy="32" r="17" fill="none" stroke="#ffffff" stroke-width="7"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">AR</text>
+  <title>공항 셔츠룸 추천</title>
+  <rect width="64" height="64" rx="17" fill="hsl(296 71% 27%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(66 68% 65%)" opacity="0.16"/>
+  <g transform="rotate(90 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(296 24% 96%)" stroke-width="6" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(66 68% 65%)"/></g>
 </svg>
